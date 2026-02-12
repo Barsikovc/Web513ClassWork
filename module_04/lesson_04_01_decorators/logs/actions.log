@@ -1,0 +1,2 @@
+2026-02-12 19:34:25.215647 >> User: Alice. action: login
+2026-02-12 19:34:25.215997 >> User: Alice. action: update_profile, params (('Алиса',)/{'age': 25})
