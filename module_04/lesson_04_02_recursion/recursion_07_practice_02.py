@@ -22,12 +22,16 @@ task_tree = {
     ]
 }
 """
+def task_gen(func, data, key):
+    for subtask in data[key]:
+        yield func(subtask)
 
 
 def count_tasks(task_tree):
     if not task_tree.get('subtasks'):
         return 1
-    return 1 + sum(count_tasks(subtask) for subtask in task_tree['subtasks'])
+    # return 1 + sum(count_tasks(subtask) for subtask in task_tree['subtasks'])
+    return 1 + sum(task_gen(count_tasks, task_tree, 'subtasks'))
 
 
 if __name__ == '__main__':
