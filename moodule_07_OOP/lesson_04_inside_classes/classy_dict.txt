@@ -1,0 +1,11 @@
+{'__module__': '__main__',
+'__firstlineno__': 1,
+'__doc__': '\nКласс созданный для примера\n',
+'variable': 1,
+'__init__': <function Classy.__init__ at 0x000001FEE77F7320>,
+'class_method': <classmethod(<function Classy.class_method at 0x000001FEE77FC0F0>)>,
+'method': <function Classy.method at 0x000001FEE77FC250>,
+'_Classy__hidden': <function Classy.__hidden at 0x000001FEE77FC7D0>,
+'__static_attributes__': ('var',),
+'__dict__': <attribute '__dict__' of 'Classy' objects>,
+'__weakref__': <attribute '__weakref__' of 'Classy' objects>}
