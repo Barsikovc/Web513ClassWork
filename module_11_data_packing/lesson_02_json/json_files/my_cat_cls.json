@@ -1,0 +1,11 @@
+{
+  "_name": "Франц",
+  "_age": 4,
+  "_gender": "Самец",
+  "ClassName": "MyCat",
+  "methods": {
+    "property_name": "Франц",
+    "property_age": 4,
+    "property_gender": "Самец"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "my_string": "some_string",
+  "my_integer": 123,
+  "my_tuple": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "my_bool": true,
+  "my_none": null
+}
