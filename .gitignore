@@ -7,3 +7,5 @@ venv/
 __pycache__/
 
 /module_13_ABC_patterns/lesson_02_02_CreationalPatterns/
+/module_13_ABC_patterns/lesson_03_01_StructuralPatterns/
+/module_13_ABC_patterns/lesson_03_02_BehavioralPatterns/

@@ -1,0 +1,42 @@
+[
+    {
+        "mail1yandex.ru": [
+            {
+                "course": "HTML",
+                "mark": 10
+            },
+            {
+                "course": "CSS",
+                "mark": 12
+            },
+            {
+                "course": "JavaScript",
+                "mark": 9
+            },
+            {
+                "course": "Python",
+                "mark": 11
+            }
+        ]
+    },
+    {
+        "mail2yandex.ru": [
+            {
+                "course": "HTML",
+                "mark": 10
+            },
+            {
+                "course": "CSS",
+                "mark": 12
+            },
+            {
+                "course": "JavaScript",
+                "mark": 9
+            },
+            {
+                "course": "Python",
+                "mark": 11
+            }
+        ]
+    }
+]
